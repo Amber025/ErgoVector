@@ -16,7 +16,7 @@
 </div>
 
 ## 🌐 Blog Post
-For a deeper dive into how ergoSmart was built, including detailed explanations and code snippets, check out the <a href="https://medium.com/@psr8084/building-a-real-time-posture-monitoring-application-with-mediapipe-and-react-a-comprehensive-guide-e7c7a8adc536"> Medium Post</a>.
+For a deeper dive into how ergoSmart was built, including detailed explanations and code snippets, check out the <a"> Medium Post</a>.
 
 ## 🌟 Features
 
