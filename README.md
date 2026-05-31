@@ -16,7 +16,7 @@
 </div>
 
 ## 🌐 Blog Post
-For a deeper dive into how ergoSmart was built, including detailed explanations and code snippets, check out the <a"> Medium Post</a>.
+For a deeper dive into how ergoSmart was built, including detailed explanations and code snippets, check out the Medium Post</a>.
 
 ## 🌟 Features
 
