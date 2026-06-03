@@ -26,15 +26,6 @@ For a deeper dive into how ergoSmart was built, including detailed explanations 
 - 🎨 Sleek, user-friendly interface
 - 📱 Responsive design for all devices
 
-## 🚀 Quick Start
-
-1. Clone the repo:   ```
-   git clone https://github.com/princesinghrajput/ergoSmart.git   ```
-2. Install dependencies:   ```
-   cd ergosmart && npm install   ```
-3. Start the app:   ```
-   npm start   ```
-4. Open `http://localhost:3000` in your browser
 
 ## 🛠️ Technologies
 
